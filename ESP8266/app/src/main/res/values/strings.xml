@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ESP8266</string>
+    <string name="port">Port</string>
+    <string name="ip">IP</string>
+    <string name="pin11">PIN 11</string>
+    <string name="pin12">PIN 12</string>
+    <string name="pin13">PIN 13</string>
+</resources>
